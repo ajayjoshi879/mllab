@@ -1,0 +1,18 @@
+[submodule "eng-edu"]
+	path = eng-edu
+	url = https://github.com/google/eng-edu.git
+[submodule "AI-Practice-Tensorflow-Notes"]
+	path = AI-Practice-Tensorflow-Notes
+	url = https://github.com/bigclouds/AI-Practice-Tensorflow-Notes.git
+[submodule "ML-From-Scratch"]
+	path = ML-From-Scratch
+	url = https://github.com/eriklindernoren/ML-From-Scratch.git
+[submodule "neural-networks-and-deep-learning"]
+	path = neural-networks-and-deep-learning
+	url = https://github.com/mnielsen/neural-networks-and-deep-learning.git
+[submodule "Machine-Learning-Algorithms-from-Scratch"]
+	path = Machine-Learning-Algorithms-from-Scratch
+	url = https://github.com/madhug-nadig/Machine-Learning-Algorithms-from-Scratch.git
+[submodule "DeepLearning-Image"]
+	path = DeepLearning-Image
+	url = https://github.com/rouseguy/DeepLearning-Image.git
